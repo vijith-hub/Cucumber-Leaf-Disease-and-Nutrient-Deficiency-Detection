@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (Do not upload your raw image datasets to GitHub)
+data/
+dataset/
